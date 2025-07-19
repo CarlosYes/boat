@@ -526,14 +526,14 @@ body {
 }
 
 #ship-container {
-  -webkit-animation: 5s ease-in-out 0s normal none infinite rockship;
-  -moz-animation: 5s ease-in-out 0s normal none infinite rockship;
+  -webkit-animation: 10s ease-in-out 0s normal none infinite rockship;
+  -moz-animation: 10s ease-in-out 0s normal none infinite rockship;
 }
 
 #wholeship {
-  -webkit-animation: moveship 30s linear infinite;
-  -moz-animation: moveship 30s linear infinite;
-  -o-animation: moveship 30s linear infinite;
+  -webkit-animation: moveship 60s linear infinite;
+  -moz-animation: moveship 60s linear infinite;
+  -o-animation: moveship 60s linear infinite;
 }
 
 @keyframes moveship {
